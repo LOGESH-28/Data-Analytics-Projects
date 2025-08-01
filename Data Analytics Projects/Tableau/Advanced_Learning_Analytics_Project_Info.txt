@@ -1,0 +1,23 @@
+1. Project Title:
+Advanced Learning Analytics Dashboard using Tableau
+
+2. Tool Used:
+Tableau Desktop
+
+3. Description:
+This project involves the creation of advanced Tableau dashboards using extended datasets related to users, courses, and their activity. The goal is to uncover meaningful insights from user-course interaction data and present them using visual analytics. The project focuses on calculated fields, parameters, sets, filters, and action-based interactivity to simulate real-world data storytelling.
+
+4. Key Features:
+- Dashboard 1: User Performance Overview
+  • KPIs like Average Score, Total Time Spent, Completion Rate
+  • Dynamic score range filtering using Parameters
+  • Set-based filtering for high scorers
+  • Time Spent vs Score analysis using scatter plot
+  • Drill-down with action filters and device segmentation
+
+- Dashboard 2: User Engagement & Progress Tracker
+  • Course-wise average scores and time spent
+  • Progress trends over time using line chart
+  • Filters for Country, Gender, and Education Level
+  • Slicers for Course Category and Difficulty
+  • Parameter to filter by Top N Courses by Rating

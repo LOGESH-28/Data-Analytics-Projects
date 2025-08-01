@@ -1,0 +1,16 @@
+1. Project Title:
+IPL Team Performance Dashboard (2008-2024)
+
+2. Tool Used:
+Power BI
+
+3. Description:
+This dashboard provides an in-depth analysis of IPL matches from 2008 to 2024 using interactive visualizations. It enables users to explore team-wise performance, dot ball percentages, season-wise trends, player impact, and win/loss analysis through dynamic visuals and slicers.
+
+4. Key Features:
+- Dynamic title and theme color based on selected team
+- Dot Ball % calculation with DAX
+- Season-wise and team-wise insights
+- Conditional formatting and data-driven design
+- KPIs and match trend charts
+- Interactive slicers for team, season, venue, and player filters
